@@ -1,3 +1,5 @@
+#This script is uploaded to github at https://github.com/hamadasoma/InstDepShifts
+
 from itertools import cycle
 from datetime import timedelta
 from datetime import date
